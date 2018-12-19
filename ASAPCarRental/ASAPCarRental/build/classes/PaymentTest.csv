@@ -1,0 +1,15 @@
+1,makePayment,64,Nameet,4123456789123450,Visa,Please correct following fields,Invalid CVV length,,
+2,makePayment,cc,Nameet,4123456789123450,Visa,Please correct following fields,Invalid input,,
+3,makePayment,643,Nameet,4123456789123450,Visa,,,,
+4,makePayment,643,Nameet,,Visa,Please correct following fields,,Card number cannot be empty.,
+5,makePayment,643,Nameet,1123456789123450,Visa,Please correct following fields,,Credit Card Number must start from 4,
+6,makePayment,643,Nameet,4123456789123450,Master Card,Please correct following fields,,Credit Card Number must start from 5,
+7,makePayment,643,Nameet,5321123443211230,Master Card,,,,
+8,makePayment,643,Nameet,5321123443211230,American Express,Please correct following fields,,Credit Card Number must start from 6,
+9,makePayment,643,Nameet,6321123443211230,American Express,,,,
+10,makePayment,643,Nameet,4321123443211230,Discover,Please correct following fields,,Credit Card Number must start from 7,
+11,makePayment,643,Nameet,7321123443211230,Discover,,,,
+12,makePayment,643,Nameet,7321123441230,Discover,Please correct following fields,,Credit Card Number must have 16 digits,
+13,makePayment,643,,7321123443211230,Discover,Please correct following fields,,,Name should be only alphabets
+14,makePayment,643,123,7321123443211230,Discover,Please correct following fields,,,Name should be only alphabets
+15,makePayment,643,Nameet,7321123443211230,Discover,,,,

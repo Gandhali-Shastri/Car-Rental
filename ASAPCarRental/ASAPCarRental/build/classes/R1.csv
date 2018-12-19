@@ -1,0 +1,15 @@
+1,makeReservation,,12/17/2018,10,12,Please fix following errors,Date cannot be blank,,Pick-up date is empty,
+2,makeReservation,12/8/2018,12/10/2018,8,8,,,,,
+3,makeReservation,,12/7/2018,8,8,Please fix following errors,Date cannot be blank,,Pick-up date is empty,
+4,makeReservation,11/7/2017,12/17/2018,8,8,Please fix following errors,Chosen date can't be before today's date,,,
+5,makeReservation,12/10/2018,,8,8,Please fix following errors,,End date cannot be blank,,Drop-off date is empty
+6,makeReservation,12/10/2018,12/1/2018,8,8,Please fix following errors,,Chosen drop date can't be before Start date,,
+7,makeReservation,12/16/2018,12/18/2018,10,17,Please fix following errors,,,Sundays 12pm to 5pm,
+8,makeReservation,12/5/2018,12/8/2018,8,20,Please fix following errors,,,,Saturdays 8am to 5pm
+9,makeReservation,12/5/2018,12/16/2018,14,20,Please fix following errors,,,,Sundays 12pm to 5pm
+10,managerReservation,,12/7/2018,8,8,Please fix following errors,Date cannot be blank,,,
+11,managerReservation,12/10/2018,,8,8,Please fix following errors,,End date cannot be blank,,
+12,makeReservation,12/9/2018,12/9/2018,10,20,Please fix following errors,,,Sundays 12pm to 5pm,Sundays 12pm to 5pm
+13,makeReservation,12/9/2018,12/9/2018,12,14,,,,,
+14,makeReservation,12/5/2018,12/5/2018,11,20,,,,,
+15,makeReservation,12/5/2018,12/5/2018,18,20,,,,,
